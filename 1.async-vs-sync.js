@@ -81,6 +81,7 @@ console.log(`Hello`);
 */
 
 // example of callback, async - sync, callback hell ---->
+/* 
 const takeOrder = (customer, callback) => {
   console.log(`Take order from ${customer}`);
   callback(customer);
@@ -107,3 +108,4 @@ takeOrder('customer 1', (customer) => {
 });
 
 console.log(`hello... Please take order`);
+ */
